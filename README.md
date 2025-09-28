@@ -29,19 +29,18 @@ I’m a passionate Android developer with hands-on experience building scalable,
 
 ---
 
-## 📈 GitHub Stats
-
-![Mahmoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=m37moud\&show_icons=true\&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m37moud\&layout=compact\&theme=tokyonight)
-
----
-
 
 ## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=m37moud&theme=radical" alt="GitHub Streak" />
 </p>
+
+---
+
+## 📈 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m37moud\&layout=compact\&theme=tokyonight)
 
 ---
 
