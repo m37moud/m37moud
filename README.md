@@ -21,11 +21,11 @@ I’m a passionate Android developer with hands-on experience building scalable,
 
 ## 📌 Featured Projects
 
+* 🛒 **[Ceramic Mayorca](https://play.google.com/store/apps/details?id=net.mayorcaceramic.ceramicmayorca)** – E-commerce app with backend built in **Ktor + MySQL**.
 * 🎓 **[HRSystem](https://github.com/m37moud/HRSystem)** – HR management desktop app using Kotlin, Compose, SQLDelight & Decompose.
 * 📚 **[StoriesForKids](https://github.com/m37moud/StoriesForKids)** – Educational Android app with interactive animations & Firebase integration.
 * 🏪 **[Store Management](https://play.google.com/store/apps/details?id=com.m37moud.storemanagement)** – Barcode scanner & stock management app with Excel export.
 * 🎶 **[Watar FM](https://play.google.com/store/apps/details?id=ac.radios.watarfm)** – Live Arabic radio streaming app.
-* 🛒 **[Ceramic Mayorca](https://play.google.com/store/apps/details?id=net.mayorcaceramic.ceramicmayorca)** – E-commerce app with backend built in **Ktor + MySQL**.
 
 ---
 
