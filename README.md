@@ -37,11 +37,16 @@ I enjoy solving problems, learning new technologies, and sharing my projects wit
 
 ## 📌 Featured Projects
 
-* 🛒 [**Ceramic Mayorca**](https://play.google.com/store/apps/details?id=net.mayorcaceramic.ceramicmayorca) – E-commerce app with backend in **Ktor + MySQL**
-* 🎓 [**HRSystem**](https://github.com/m37moud/HRSystem) – HR management desktop app built with **Compose, SQLDelight & Decompose**
-* 📚 [**StoriesForKids**](https://github.com/m37moud/StoriesForKids) – Educational app with animations & Firebase integration
-* 🏪 [**Store Management**](https://play.google.com/store/apps/details?id=com.m37moud.storemanagement) – Barcode scanner & stock management app with Excel export
+* 🛒 [**Ceramic Mayorca**](https://play.google.com/store/apps/details?id=net.mayorcaceramic.ceramicmayorca) – An integrated system built to showcase and manage tile products efficiently
+* 🎓 [**HRSystem**](https://github.com/m37moud/HRSystem) – Developed a cross-platform HR management system designed to automate employee attendance
+  and reporting workflows. **Compose, SQLDelight & Decompose**
+* 📚 [**StoriesForKids**](https://github.com/m37moud/StoriesForKids) – An interactive learning app for children featuring animations, sound effects, and bilingual
+  (Arabic–English) content.
+* 🏪 [**Store Management**](https://play.google.com/store/apps/details?id=com.m37moud.storemanagement) – Store Management for scanning the BRCode for stock items in store by camera, then exporting a report via Excel
 * 🎶 [**Watar FM**](https://play.google.com/store/apps/details?id=ac.radios.watarfm) – Live Arabic radio streaming app
+* 🎶 [**Mood FM**](https://play.google.com/store/apps/details?id=ac.radio.moodfm) – Live Arabic radio streaming app
+* 🎶 [**Beat FM**](http://play.google.com/store/apps/details?id=ac.radio.Beatfm) – Live Arabic radio streaming app
+
 
 ---
 
